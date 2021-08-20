@@ -6,17 +6,13 @@
 ##   Website	: 	https://hackerbro.websites.co.in
 
 ##   THANKS TO :
-##   Aditya Shakya - https://github.com/adi1090x
-##   Moises Tapia - https://github.com/MoisesTapia
-##   TheLinuxChoice - https://twitter.com/linux_choice
-##   DarksecDevelopers  - https://github.com/DarksecDevelopers
-##   Ignitetch  - https://github.com/Ignitetch/AdvPhishing
-##   Võ Ngọc Bảo - https://github.com/vongocbao
-##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
-
-
-## If you Copy Then Give the credits :)
-
+##   REWANTA KARKI
+##   MABIN LIMBU
+##   NIWAHANG LIMBU
+##   Mobin Limbu
+##    BIKRANT LIMBU
+##   MAHESH SINHA
+##   BICKRAM LIMBU
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -145,15 +141,8 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.1
+ʜᴀᴄᴋᴇʀ ʙʀᴏ ᴏғғɪᴄᴀʟ
+		                    ${RED}Version : 2.1
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by hacker bro (Sachin xetryy)${WHITE}
 	EOF
@@ -259,7 +248,7 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}SACHIN XETRYY ${RED}[ ${ORANGE}HTR-TECH ${RED}]
+		${GREEN}Author   ${RED}:  ${ORANGE}SACHIN XETRYY ${RED}[ ${ORANGE}HB-OFFICIAL ${RED}]
 		${GREEN}Website  ${RED}:  ${CYAN}https://hackerbro.websites.co.in
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
 
