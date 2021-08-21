@@ -141,8 +141,13 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-ʜᴀᴄᴋᴇʀ ʙʀᴏ ᴏғғɪᴄᴀʟ
-		                    ${RED}Version : 2.1
+${GREEN} _   _    _    ____ _  _______ ____       ____  ____   ___
+${GREEN}| | | |  / \  / ___| |/ / ____|  _ \     | __ )|  _ \ / _ \
+${GREEN}| |_| | / _ \| |   | ' /|  _| | |_) |____|  _ \| |_) | | | |
+${GREEN}|  _  |/ ___ \ |___| . \| |___|  _ <_____| |_) |  _ <| |_| |
+${GREEN}|_| |_/_/   \_\____|_|\_\_____|_| \_\    |____/|_| \_\\___/
+		                                                                      ${RED}Version : 1.1
+## NOTE:YOU HAVE TO USE VPN TO HACK
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by hacker bro (Sachin xetryy)${WHITE}
 	EOF
@@ -250,9 +255,9 @@ about() {
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}SACHIN XETRYY ${RED}[ ${ORANGE}HB-OFFICIAL ${RED}]
 		${GREEN}Website  ${RED}:  ${CYAN}https://hackerbro.websites.co.in
-		${GREEN}Version  ${RED}:  ${ORANGE}2.1
+		${GREEN}Version  ${RED}:  ${ORANGE}1.1
 
-		${REDBG}${WHITE} Thanks : Bikrant Limbu,Mahesh Sinha,Mobin Limbu,Niwahang Limbu,Bickram Limbu${RESETBG}
+		${REDBG}${WHITE} Thanks : Rewanta Karki,Bikrant Limbu,Mahesh Sinha,Mobin Limbu,Niwahang Limbu,Bickram Limbu${RESETBG}
 
 		${RED}[${WHITE}00${RED}]${ORANGE} Main Menu     ${RED}[${WHITE}99${RED}]${ORANGE} Exit
 
