@@ -1,12 +1,11 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
+##   HBNP	: 	Automated Phishing Tool
 ##   Author 	: 	SACHIN XETRYY
-##   Version 	: 	2.1
+##   Version 	: 	1.1
 ##   Website	: 	https://hackerbro.websites.co.in
 
 ##   THANKS TO :
-##   REWANTA KARKI
 ##   MABIN LIMBU
 ##   NIWAHANG LIMBU
 ##   Mobin Limbu
@@ -85,7 +84,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  HACKER BRO(https://github.com/hbnp)
 ##
 
 
@@ -140,26 +139,30 @@ kill_pid() {
 
 ## Banner
 banner() {
-	cat <<- EOF
-${GREEN} _   _    _    ____ _  _______ ____       ____  ____   ___
-${GREEN}| | | |  / \  / ___| |/ / ____|  _ \     | __ )|  _ \ / _ \
-${GREEN}| |_| | / _ \| |   | ' /|  _| | |_) |____|  _ \| |_) | | | |
-${GREEN}|  _  |/ ___ \ |___| . \| |___|  _ <_____| |_) |  _ <| |_| |
-${GREEN}|_| |_/_/   \_\____|_|\_\_____|_| \_\    |____/|_| \_\\___/
-		                                                                      ${RED}Version : 1.1
-## NOTE:YOU HAVE TO USE VPN TO HACK
-
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by hacker bro (Sachin xetryy)${WHITE}
+  cat <<-EOF
+ #     # ######  
+ #     # #     # 
+ #     # #     # 
+ ####### ######  
+ #     # #     # 
+ #     # #     # 
+ #     # ######  
+                          ${RED}Version : 1.1
+## NOTE:YOU HAVE TO USE VPN & TOR BROWSER TO HACK
+		${GREEN}[${WHITE}-${GREN}]${CYAN} Tool Created by hacker bro (Sachin xetryy)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.1
+		#     # ######  
+ #     # #     # 
+ #     # #     # 
+ ####### ######  
+ #     # #     # 
+ #     # #     # 
+ #     # ######  
 	EOF
 }
 
